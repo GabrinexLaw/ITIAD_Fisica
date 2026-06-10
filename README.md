@@ -1,2 +1,2 @@
-# itiadfisica
+# ITIAD Fisica
 Un portafolio académico
